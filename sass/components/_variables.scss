@@ -10,7 +10,7 @@
 //  4. Cards
 //  5. Collapsible
 //  6. Chips
-//  7. Date Picker
+//  7. Date + Time Picker
 //  8. Dropdown
 //  10. Forms
 //  11. Global
@@ -115,7 +115,7 @@ $chip-selected-color: #26a69a !default;
 $chip-margin: 5px !default;
 
 
-// 7. Date Picker
+// 7. Date + Time Picker
 // ==========================================================================
 
 $datepicker-display-font-size: 2.8rem;
@@ -126,6 +126,9 @@ $datepicker-year: rgba(255, 255, 255, .7) !default;
 $datepicker-focus: rgba(0,0,0, .05) !default;
 $datepicker-selected: $secondary-color !default;
 $datepicker-selected-outfocus: desaturate(lighten($secondary-color, 35%), 15%) !default;
+
+$timepicker-clock-color: rgba(0, 0, 0, .87) !default;
+$timepicker-clock-plate-bg: #eee;
 
 
 // 8. Dropdown
