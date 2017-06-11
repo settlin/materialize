@@ -118,6 +118,8 @@ $chip-margin: 5px !default;
 // 7. Date Picker
 // ==========================================================================
 
+$datepicker-display-font-size: 2.8rem;
+$datepicker-weekday-color: rgba(0, 0, 0, .87) !default;
 $datepicker-weekday-bg: darken($secondary-color, 7%) !default;
 $datepicker-date-bg: $secondary-color !default;
 $datepicker-year: rgba(255, 255, 255, .7) !default;
