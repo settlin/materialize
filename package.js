@@ -3,7 +3,7 @@
 Package.describe({
   name: 'settlin:materialize',  // http://atmospherejs.com/materialize/materialize
   summary: 'Materialize (official): A modern responsive front-end framework based on Material Design',
-  version: '0.98.2',
+  version: '1.0.0',
   git: 'https://github.com/Dogfalo/materialize.git'
 });
 
