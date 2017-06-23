@@ -2,7 +2,7 @@
 
 Package.describe({
   name: 'settlin:materialize',  // http://atmospherejs.com/materialize/materialize
-  summary: 'Materialize (unofficial): Stabilize the regularly incoming bugs with version updates',
+  summary: 'Materialize (unofficial): Stabilize, removing the regularly incoming bugs with version updates',
   version: '1.0.0',
   git: 'https://github.com/settlin/materialize.git'
 });
